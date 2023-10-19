@@ -10,6 +10,8 @@ public class Main {
 
         System.out.println(5+6);
 
+        System.out.println("Wazzup");
+
 
     }
 }
